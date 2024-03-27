@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<!--
+<!--[CV 2023 2 2.pdf](https://github.com/nataliadevvv/nataliadevvv/files/14781605/CV.2023.2.2.pdf)
+
 **nataliadevvv/nataliadevvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
